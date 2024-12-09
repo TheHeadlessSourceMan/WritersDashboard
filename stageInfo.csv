@@ -1,0 +1,13 @@
+stageNum,name,estimateWorkingDays,estimateWorkingHours,goal
+0,Concept,,3,just getting the idea on paper
+1,Outline,,18,organizing rough series of events
+2,Fill in outline,24,,Fill in the outline to get a relatively complete story
+3,80% draft,24,,inflate to approx 48000 words
+4,Pre-read,9,,"1.5 week, have people pre-read and get to 60000 words."
+5,Preread corrections,4,,Make all fixes from pre-read.
+6,Draft cover,2,,Create draft cover.
+7,Chapter checklist,3.5,,Go through checklist on each chapter (add details and so forth)
+8,Beta Readers,14,,Send book to beta readers.  Meanwhile do read-aloud corrections.
+9,Final Housekeeping,2.5,,"Clean up cover.  Apply for library of congress, assign ISBN."
+10,Proofread,14,,Correct all grammar errors.
+11,Release Hooplah,14,,Devote time to release buzz.
