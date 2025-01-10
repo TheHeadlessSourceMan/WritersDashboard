@@ -449,6 +449,8 @@ class Projects:
         return len(self.projects)
     def __getitem__(self,idx):
         return self.projects[idx]
+    def __iter__(self)->typing.Iterator[Project]:
+        return iter(self.projects)
 
     def __repr__(self)->str:
         return '\n================\n'.join([str(p) for p in self.projects])
